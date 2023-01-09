@@ -6255,23 +6255,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\erkan.salihoglu\\.nuget\\packages\\": {},
+    "C:\\Users\\Erkan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erkan.salihoglu\\source\\repos\\TraversalApiProject\\TraversalApiProject\\TraversalApiProject.csproj",
+      "projectUniqueName": "C:\\Users\\Erkan\\source\\repos\\traversalApiProject\\TraversalApiProject.csproj",
       "projectName": "TraversalApiProject",
-      "projectPath": "C:\\Users\\erkan.salihoglu\\source\\repos\\TraversalApiProject\\TraversalApiProject\\TraversalApiProject.csproj",
-      "packagesPath": "C:\\Users\\erkan.salihoglu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erkan.salihoglu\\source\\repos\\TraversalApiProject\\TraversalApiProject\\obj\\",
+      "projectPath": "C:\\Users\\Erkan\\source\\repos\\traversalApiProject\\TraversalApiProject.csproj",
+      "packagesPath": "C:\\Users\\Erkan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Erkan\\source\\repos\\traversalApiProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\erkan.salihoglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Erkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6279,6 +6279,7 @@
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -6342,7 +6343,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
